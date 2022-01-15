@@ -1,0 +1,207 @@
+.firstbackground{
+    border: 2px solid black;
+    background-color: black;
+    height: 725px;
+    width: 1515px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.calculator{
+    border: 20px solid rgb(241, 236, 236);
+    background-color: yellow;
+    border-radius: 50%;
+    height: 600px;
+    width: 1000px;
+    
+    
+}
+.eyes{
+    display: flex;
+    margin: 2px;
+    margin-left: 180px;
+    
+}
+.eye1{
+    border: 2px solid black;
+    margin: 100px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+    font-size: 50px;
+}
+.result{
+    border: 4px solid black;
+    font-size: large;
+    background-color: white;
+    height: 30px;
+    width: 300px;
+    margin-left: 321px;
+    border-radius: 10px;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.algo{
+    border: 6px solid rgb(221, 26, 26);
+    
+    height: 250px;
+    width: 800px;
+    margin-left: 100px ;
+    margin-top: 0px;
+    background-color: white ;
+    border-radius: 50%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    height: 190px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.line1{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 490px;
+    margin: 2px;
+    border-radius: 20px;
+
+}
+.item{
+    font-size: large;
+    border: 2px solid black;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.blank{
+    
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itemp{
+    border: 2px solid black;
+    font-size: large;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%; 
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(144, 216, 144);
+}
+.item-{
+    border: 2px solid black;
+    font-size: large;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 144, 192);
+}
+.itemx{
+    border: 2px solid black;
+    font-size: large;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(199, 170, 231);
+}
+.itemd{
+    border: 2px solid black;
+    font-size: large;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(62, 146, 172);
+}
+.iteme{
+    font-size: large;
+    border: 2px solid black;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 134, 134);
+}
+.itemsp{
+    font-size: large;
+    border: 2px solid black;
+    height: 30px;
+    width: 120px;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(155, 151, 151);
+    
+}
+.line2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 490px;
+    margin: 4px;
+    border-radius: 20px;
+    border: 3px solid black;
+    font-size: large;
+
+}
+.item:hover{
+    background-color: rgb(41, 41, 40);
+    color: white;
+}
